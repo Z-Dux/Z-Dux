@@ -13,7 +13,7 @@
 - I can read and understand some code written in <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/) and <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++
 - I’m currently learning <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="20" height="20" alt="TensorFlow" /></a> [Tensorflow](https://tensorflow.org/) and <img src="https://go.dev/images/favicon-gopher.png" alt="." width="20" height="20"/> [Go](https://go.dev/)
 
-### Skills
+### what i know
 
 
 <p align="left">
