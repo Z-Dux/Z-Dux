@@ -6,7 +6,8 @@
 <br/>
 <br/>
 
-- <img src="https://discord.com/assets/c4c4b3b5f3f8bcefb487.svg" alt="." width="16" height="16"/> Student from India
+- [Visit my profile](https://zdux.me/)
+- ✨ Student from India
 - <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="16" height="16" /> I am 18 years old. 🧧
 - 🎓 Friendly greyhat enthusiast 
 - I'm quite skilled with <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/) and <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="." width="16" height="16"/> TypeScript
