@@ -8,7 +8,7 @@
 
 - [Visit my profile](https://zdux.me/)
 - ✨ Student from India
-- <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="16" height="16" /> I am 18 years old. 🧧
+- <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="16" height="16" /> I am 19 years old. 🧧
 - 🎓 Friendly greyhat enthusiast 
 - I'm quite skilled with <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/) and <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="." width="16" height="16"/> TypeScript
 - I can read and understand some code written in <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/) and <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++
